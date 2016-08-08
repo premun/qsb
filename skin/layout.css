@@ -1,0 +1,74 @@
+body					{ background-color: #000000; font-family: Tahoma; color: #EFEFEF; }
+
+
+.main					{ margin: auto; margin-top: 10px; border: 0px solid #000000; width: 827px; min-height: 392px; padding-left: 51px; 
+					  	  background-image: url(img/draty.jpg); background-position: 0px 102px; background-repeat: no-repeat; }
+
+
+.infobox				{ float: left; border: 1px solid #444444; width: 142px; height: 148px; background-image: url(img/infobox_bg.jpg); font-size: 13px; text-align: left; padding-top: 10px; margin-top: 58px }
+.infobox a				{ color: #FFF; text-decoration: none }
+.infobox a.nick			{ font-weight: bold; font-style: italic; margin-left: 40px }
+.infobox img			{ vertical-align: middle; margin-left: 16px; margin-top: 1px; margin-bottom: 6px; }
+.infobox .odrazka		{ margin: auto; margin-bottom: 6px; margin-top: 3px; width: 120px; height: 1px; border-bottom: 1px solid #444444 }
+.infobox .posta_a		{ cursor: pointer; margin-right: 5px; margin-top: 3px }
+
+
+.banner					{ float: right; text-align: right; width: 679px; height: 218px }
+.banner img				{ margin: 0px; }
+.banner_space			{ clear: both; height: 4px; }
+
+
+.menu_space				{ float: left; width: 142px; margin-right: 10px; text-align: center; }
+.menu_space img			{ margin-bottom: 4px; }
+.menu_space .infobox img{ margin-bottom: 0px; }
+.menu_space form		{ margin-left: 0px; margin-top: 9px; margin-bottom: 9px; }
+
+
+.container				{ border-left: 1px solid #444444; border-right: 1px solid #444444; width: 142px; min-height: 50px; padding-top: 12px; 
+		  			 	  padding-bottom: 12px; background-image: url(img/menu_bg.jpg); font-size: 13px; vertical-align: top; text-align: left; }
+.container a			{ color: #EFEFEF; text-decoration: none; padding-left: 43px; border-bottom: 0px solid #252525; display: block; }
+.container a:hover		{ color: #C0C0C0; text-decoration: none; /*background-image: url(img/menu_hover.png); background-repeat: no-repeat; background-position: 0px -1px*/ }
+.container 
+a:first-letter	 		{ color: #FF9900; }
+.container 
+a:hover:first-letter 	{ color: #FF9900; }
+
+
+.menu_row				{ float: left; width: 142px; margin-right: 4px; }
+.right_row				{ float: right; width: 626px; min-height: 398px; vertical-align: top; text-align: left; padding-right: 53px }
+.obsah_row				{ float: left; width: 477px }
+.info_row				{ float: right; width: 143px; }
+
+
+.row .odrazka			{ width: 100%; height: 18px; border: 1px solid #444444; background-color: #000000; background-image: url(img/bar2.jpg); font-size: 12px; }
+.obsah_row .odrazka		{ width: 465px; padding: 2px 6px 3px 6px; height: 13px }
+.row .menu_row 
+.odrazka:hover span 	{ color: #FFF }
+
+
+.obsah					{ border: 1px solid #444444; width: 447px; min-height: 400px; background-image: url(img/anakin.jpg); background-position: left bottom; 
+					  	  background-repeat: no-repeat; padding: 0px 14px 15px 16px; font-size: 12px; border-top-color: #000; padding-bottom: 80px }
+.obsah_tip				{ margin: auto; width: 412px; padding: 3px 15px 3px 15px; font-size: 13px; border-top: 1px solid #343434; position: relative; left: 75px; top: -70px;
+						  border-bottom: 1px solid #343434; cursor: pointer }
+.obsah_tip:hover		{ border-color: #545454 }
+
+
+.info_kluzak 			{ margin-left: 83px; margin-top: -6px; position: absolute }
+.info_row .odrazka		{ width: 135px; padding-top: 2px; padding-left: 6px; height: 16px }
+.info_row 
+.odrazka:first-letter	{ color: #FF9900; }
+.info_row .right_box	{ width: 133px; border: 1px solid #444; border-width: 0px 1px 0px 1px; padding: 10px 4px 10px 4px; font-size: 11px; color: #797979; 
+						  background-image: url(img/box_bg.jpg); background-repeat: no-repeat; background-position: top right; }
+.nastenka_buttony		{ position: absolute; margin-left: 144px; margin-top: 26px }
+.nastenka_button		{ display: block; width: 10px; background-image: url(img/nastenky.jpg); background-repeat: no-repeat; cursor: pointer; margin-bottom: 10px; }
+.nastenka_button:hover	{ background-image: url(img/nastenkyl.jpg) }
+.nastenka_button_active	{ display: block; width: 10px; background-image: url(img/nastenkyl.jpg); background-repeat: no-repeat; cursor: pointer; margin-bottom: 10px; }
+
+.info_row .right_box strong, .info_row .right_box span	{ color: #FFFFFF; }
+.info_row .right_box a									{ color: #797979; }
+.info_row .right_box a:hover							{ color: #999999; }
+
+#nastenka a				{ color: #FFF; }
+#nastenka a:hover		{ color: #BBB; }
+
+.footer					{ height: 53px; width: 100%; background-image: url(img/footer.jpg); background-position: 362px 0px; background-repeat: no-repeat; clear: left; position: relative; left: -150px }

@@ -1,0 +1,33 @@
+<h3>Vítejte ve hře Quadra Speed Boosters!</h3>
+
+<br />
+QSB je onlinová browser-based hra napodobující drsný svět sázek a závodů kluzáků známý ze Star Wars. Založte si vlastní stáj, obchodujte, živte se opravováním kluzáků ostatních hráčů nebo reprezentujte spojence jako závodník v QSB poháru o opravdové ceny! Pokud se chcete o hře dozvědět více, pokračujte helpem. Jinak stačí jednoduchá registrace (potřebný e-mail!) a můžete hrát také!
+<br />
+<hr />
+
+<h4>Stav hry</h4>
+20.10.2012 začala po opravdu dlouhé době nová ostrá sezóna a vypadá to na dobrou ostrou sezónu :) Pokud se rychle přidáš, pořád se máš šanci účastnit QSB Poháru!
+<br />
+<br />
+
+<h4>QSB World</h4>
+Na adrese <strong><a href="http://world.qsb.cz/" target="_blank">www.world.qsb.cz</a></strong> byl zřízen informační server "od hráčů pro hráče". Pokud máte účet ve hře, můžete se tam v mžiku zaregistrovat, čímž dostanete možnost hodnotit jednotlivé články, vyjadřovat své názory a kritizovat ostatní v diskuzích. Začíná tam být docela hodně materiálu a dozvíte se tam mimo jiné i velmi užitečné informace, co se samotného hraní týče. Neuniknou vám ani chystané změny, rady a možná i něco vtipného.
+<br />
+<br />
+<div style="width: 100%; text-align: right">
+-<strong>Dr.Hadr</strong>
+</div>
+<hr />
+<h4>IRC</h4>
+<table>
+<tr>
+<td>server  </td><td> - </td><td><strong>irc.quakenet.org</strong> (83.140.172.212)</td>
+</tr>
+<tr>
+<td>channel  </td><td> - </td><td><strong>#qsb</strong></td>
+</tr>
+<tr>
+<td>port  </td><td> - </td><td><strong>6667</strong></td>
+</tr>
+</table>
+<br />

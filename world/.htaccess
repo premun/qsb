@@ -1,0 +1,55 @@
+<Files administrace>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files administrace_help>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files clanek>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files clanky>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files diskuze>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files koncepty>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files navody>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files nahled>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files novinky>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files profil>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files redakce>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files registrace>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files rozhovory>
+	ForceType application/x-httpd-php
+</Files>
+
+order deny,allow
+allow from all
+AddDefaultCharset UTF-8

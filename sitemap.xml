@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://qsb.cz/</loc>
+  <priority>1.00</priority>
+  <lastmod>2009-04-08T21:22:06+00:00</lastmod>
+</url>
+<url>
+  <loc>http://qsb.cz/index.php</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-04-08T21:22:06+00:00</lastmod>
+</url>
+<url>
+  <loc>http://qsb.cz/registrace.php</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-04-08T21:22:06+00:00</lastmod>
+</url>
+<url>
+  <loc>http://qsb.cz/forget.php</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-04-08T21:22:06+00:00</lastmod>
+</url>
+<url>
+  <loc>http://qsb.cz/about.php</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-04-08T21:22:06+00:00</lastmod>
+</url>
+<url>
+  <loc>http://qsb.cz/podpora.php</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-04-08T21:22:06+00:00</lastmod>
+</url>
+<url>
+  <loc>http://qsb.cz/stats.php</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-04-08T21:22:06+00:00</lastmod>
+</url>
+</urlset>

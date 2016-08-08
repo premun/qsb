@@ -1,0 +1,377 @@
+casti[1] = 
+	{nazev: "Start",
+	nebezpeci: 0,
+	rychlost: 100,
+	rot: 0};
+	
+casti[2] = 
+	{nazev: "Start s depem",
+	nebezpeci: 0,
+	rychlost: 100,
+	rot: 0};
+	
+casti[3] = 
+	{nazev: "Cíl",
+	nebezpeci: 0,
+	rychlost: 100,
+	rot: 0};
+	
+casti[4] = 
+	{nazev: "Široká cesta",
+	nebezpeci: 5,
+	rychlost: 92,
+	rot: 0};
+	
+casti[5] = 
+	{nazev: "Cesta",
+	nebezpeci: 3,
+	rychlost: 86,
+	rot: 0};
+	
+casti[6] = 
+	{nazev: "Úzká cesta",
+	nebezpeci: 15,
+	rychlost: 72,
+	rot: 0};
+	
+casti[7] = 
+	{nazev: "Kamenitá široká cesta",
+	nebezpeci: 13,
+	rychlost: 82,
+	rot: 0};
+	
+casti[8] = 
+	{nazev: "Kamenitá cesta",
+	nebezpeci: 19,
+	rychlost: 71,
+	rot: 0};
+	
+casti[9] = 
+	{nazev: "Kamenitá úzká cesta",
+	nebezpeci: 38,
+	rychlost: 57,
+	rot: 0};
+	
+casti[10] = 
+	{nazev: "Široké rozdvojení cesty",
+	nebezpeci: 15,
+	rychlost: 94,
+	rot: 0};
+	
+casti[11] = 
+	{nazev: "Rozdvojení cesty",
+	nebezpeci: 19,
+	rychlost: 89,
+	rot: 0};
+	
+casti[12] = 
+	{nazev: "Úzké rozdvojení cesty",
+	nebezpeci: 30,
+	rychlost: 81,
+	rot: 0};
+	
+casti[13] = 
+	{nazev: "Kamenité široké rozdvojení cesty",
+	nebezpeci: 23,
+	rychlost: 86,
+	rot: 0};
+	
+casti[14] = 
+	{nazev: "Kamenité rozdvojení cesty",
+	nebezpeci: 42,
+	rychlost: 71,
+	rot: 0};
+	
+casti[15] = 
+	{nazev: "Kamenité úzké rozdvojení cesty",
+	nebezpeci: 61,
+	rychlost: 59,
+	rot: 0};
+	
+casti[16] = 
+	{nazev: "Spojení cesty",
+	nebezpeci: 15,
+	rychlost: 92,
+	rot: 0};
+	
+casti[17] = 
+	{nazev: "Kamenité spojení cesty",
+	nebezpeci: 15,
+	rychlost: 80,
+	rot: 0};
+	
+casti[18] = 
+	{nazev: "Rovinka",
+	nebezpeci: 0,
+	rychlost: 100,
+	rot: 0};
+	
+casti[19] = 
+	{nazev: "Rovinka do kopce",
+	nebezpeci: 3,
+	rychlost: 98,
+	rot: 0};
+	
+casti[20] = 
+	{nazev: "Rovinka z kopce",
+	nebezpeci: 5,
+	rychlost: 98,
+	rot: 0};
+	
+casti[21] = 
+	{nazev: "Levá mírná zatáčka",
+	nebezpeci: 7,
+	rychlost: 96,
+	rot: 0};
+	
+casti[22] = 
+	{nazev: "Levá zatáčka",
+	nebezpeci: 15,
+	rychlost: 90,
+	rot: -45};
+	
+casti[23] = 
+	{nazev: "Levá ostrá zatáčka",
+	nebezpeci: 34,
+	rychlost: 75,
+	rot: 0};
+	
+casti[24] = 
+	{nazev: "Levé elko",
+	nebezpeci: 53,
+	rychlost: 29,
+	rot: -90};
+	
+casti[25] = 
+	{nazev: "Pravá mírná zatáčka",
+	nebezpeci: 7,
+	rychlost: 96,
+	rot: 0};
+	
+casti[26] = 
+	{nazev: "Pravá zatáčka",
+	nebezpeci: 15,
+	rychlost: 90,
+	rot: 39};
+	
+casti[27] = 
+	{nazev: "Pravá ostrá zatáčka",
+	nebezpeci: 34,
+	rychlost: 75,
+	rot: 0};
+	
+casti[28] = 
+	{nazev: "Pravé elko",
+	nebezpeci: 53,
+	rychlost: 29,
+	rot: 90};
+	
+casti[29] = 
+	{nazev: "Kamenitá levá mírná zatáčka",
+	nebezpeci: 23,
+	rychlost: 85,
+	rot: 0};
+	
+casti[30] = 
+	{nazev: "Kamenitá levá zatáčka",
+	nebezpeci: 34,
+	rychlost: 80,
+	rot: 0};
+	
+casti[31] = 
+	{nazev: "Kamenitá levá ostrá zatáčka",
+	nebezpeci: 53,
+	rychlost: 65,
+	rot: 0};
+	
+casti[32] = 
+	{nazev: "Kamenité levé elko",
+	nebezpeci: 73,
+	rychlost: 15,
+	rot: 0};
+	
+casti[33] = 
+	{nazev: "Kamenitá pravá mírná zatáčka",
+	nebezpeci: 23,
+	rychlost: 85,
+	rot: 0};
+	
+casti[34] = 
+	{nazev: "Kamenitá pravá zatáčka",
+	nebezpeci: 34,
+	rychlost: 80,
+	rot: 0};
+	
+casti[35] = 
+	{nazev: "Kamenitá pravá ostrá zatáčka",
+	nebezpeci: 53,
+	rychlost: 65,
+	rot: 0};
+	
+casti[36] = 
+	{nazev: "Kamenité pravé elko",
+	nebezpeci: 73,
+	rychlost: 15,
+	rot: 0};
+	
+casti[37] = 
+	{nazev: "Serpentiny",
+	nebezpeci: 80,
+	rychlost: 35,
+	rot: 0};
+	
+casti[38] = 
+	{nazev: "Práh",
+	nebezpeci: 11,
+	rychlost: 95,
+	rot: 0};
+	
+casti[39] = 
+	{nazev: "Menší skok",
+	nebezpeci: 17,
+	rychlost: 89,
+	rot: 0};
+	
+casti[40] = 
+	{nazev: "Skok",
+	nebezpeci: 25,
+	rychlost: 79,
+	rot: 0};
+	
+casti[41] = 
+	{nazev: "Vetší skok",
+	nebezpeci: 46,
+	rychlost: 73,
+	rot: 0};
+	
+casti[42] = 
+	{nazev: "Dlouhý skok",
+	nebezpeci: 34,
+	rychlost: 86,
+	rot: 0};
+	
+casti[43] = 
+	{nazev: "Vysoký skok",
+	nebezpeci: 40,
+	rychlost: 75,
+	rot: 0};
+	
+casti[44] = 
+	{nazev: "Malá propast",
+	nebezpeci: 73,
+	rychlost: 80,
+	rot: 0};
+	
+casti[45] = 
+	{nazev: "Propast",
+	nebezpeci: 80,
+	rychlost: 80,
+	rot: 0};
+	
+casti[46] = 
+	{nazev: "Velká propast",
+	nebezpeci: 96,
+	rychlost: 80,
+	rot: 0};
+	
+casti[47] = 
+	{nazev: "Široký kaňon",
+	nebezpeci: 30,
+	rychlost: 92,
+	rot: 0};
+	
+casti[48] = 
+	{nazev: "Kaňon",
+	nebezpeci: 38,
+	rychlost: 82,
+	rot: 0};
+	
+casti[49] = 
+	{nazev: "Úzký kaňon",
+	nebezpeci: 53,
+	rychlost: 69,
+	rot: 0};
+	
+casti[50] = 
+	{nazev: "Kamenitý široký kaňon",
+	nebezpeci: 42,
+	rychlost: 79,
+	rot: 0};
+	
+casti[51] = 
+	{nazev: "Kamenitý kaňon",
+	nebezpeci: 65,
+	rychlost: 65,
+	rot: 0};
+	
+casti[52] = 
+	{nazev: "Kamenitý úzký kaňon",
+	nebezpeci: 100,
+	rychlost: 48,
+	rot: 0};
+	
+casti[53] = 
+	{nazev: "Průsmyk",
+	nebezpeci: 38,
+	rychlost: 76,
+	rot: 0};
+	
+casti[54] = 
+	{nazev: "Velká škvíra",
+	nebezpeci: 42,
+	rychlost: 62,
+	rot: 0};
+	
+casti[55] = 
+	{nazev: "Škvíra",
+	nebezpeci: 57,
+	rychlost: 55,
+	rot: 0};
+	
+casti[56] = 
+	{nazev: "Malá škvíra",
+	nebezpeci: 92,
+	rychlost: 42,
+	rot: 0};
+	
+casti[57] = 
+	{nazev: "Les",
+	nebezpeci: 65,
+	rychlost: 69,
+	rot: 0};
+	
+casti[58] = 
+	{nazev: "Široký most",
+	nebezpeci: 23,
+	rychlost: 100,
+	rot: 0};
+	
+casti[59] = 
+	{nazev: "Most",
+	nebezpeci: 34,
+	rychlost: 92,
+	rot: 0};
+	
+casti[60] = 
+	{nazev: "Úzký most",
+	nebezpeci: 50,
+	rychlost: 72,
+	rot: 0};
+	
+casti[61] = 
+	{nazev: "Velké jezero",
+	nebezpeci: 3,
+	rychlost: 60,
+	rot: 0};
+	
+casti[62] = 
+	{nazev: "Jezero",
+	nebezpeci: 3,
+	rychlost: 60,
+	rot: 0};
+	
+casti[63] = 
+	{nazev: "Malé jezero",
+	nebezpeci: 7,
+	rychlost: 60,
+	rot: 0};

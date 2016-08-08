@@ -1,0 +1,36 @@
+ErrorDocument 404 http://qsb.cz/e404.php
+
+Order allow,deny
+Allow from all
+
+<Files about>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files client>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files obrazky-ze-hry>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files podpora>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files registrace>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files stats>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files tutorial>
+	ForceType application/x-httpd-php
+</Files>
+
+<Files zapomenute-heslo>
+	ForceType application/x-httpd-php
+</Files>

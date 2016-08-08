@@ -1,0 +1,40 @@
+h1,h2,h3,h4,h5,h6 { font-style: italic; margin-top: 13px; margin-bottom: 3px; margin-left: -6px; border-left: 3px solid #353535; padding-left: 3px; }
+h1 { font-size: 24px; }
+h2 { font-size: 21px; }
+h3 { font-size: 17px; }
+h4 { font-size: 15px; }
+	
+	
+form { text-align: left; }
+.obsah form { margin-left: 42px; }
+
+.obsah hr { border: 0px solid #444; border-top-width: 1px }
+
+a { color: #FF9900; text-decoration: none; }
+a:hover { color: #838383; text-decoration: none; }
+	
+	
+input[type=text], input[type=password], input[type=file], input[type=button], input[type=submit], textarea, button, select { border: 1px solid #343434; background: black; color: #838383; margin-bottom: 2px; }
+input[type=checkbox] { border: 1px solid #343434; }
+input:hover, textarea:hover, button:hover, select:hover { color: white; border-color: #838383; }
+.submit, input[type=submit], input[type=button] { margin-top: 2px; cursor: pointer; }
+
+
+p { font-size: 90%; }
+
+
+li { list-style-type: square; color: #FF9900; }
+li:hover { color: #FFAA00; cursor: default; }
+li a { color: white; }
+
+
+pre { padding: 6px; color: #EEEEEE; background-color: #111; border: 1px dashed #A4A4A4; }
+
+em { color: #585858; }
+
+#ajaxList { height: auto; max-height: 115px; overflow: auto; position: absolute; z-index: 1003; background-color: #000000; border: 1px solid #666 }
+#ajaxList a { display: block; font-size: 13px; color: #FFFFFF; cursor: pointer; border-bottom: 1px solid #444; padding: 3px }
+#ajaxList a:hover { background-color: #111; color: #FF9900 }
+
+div.minibar { border: 1px solid #444444; font-size: 7px; background-image: url(img/spectrum2.jpg); background-repeat: no-repeat; text-align: right; height: 8px }
+div.minibar img { height: 8px }

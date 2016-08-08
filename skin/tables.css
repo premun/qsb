@@ -1,0 +1,178 @@
+.posta 					{ width: 420px; border: 1px solid #444444; border-top: 1px solid #FF9900; margin: auto }
+.posta a 				{ color: white }
+.posta a:hover 			{ color: #FF9900 }
+.posta .datum 			{ text-align: right; border-bottom: 1px solid #444444; padding-bottom: 4px; padding-top: 4px; padding-right: 3px; background: #111111 }
+.posta .nick 			{ border-bottom: 1px solid #444444; padding-bottom: 4px; padding-top: 4px; padding-left: 3px; background: #111111 }
+.posta .msg 			{ padding: 3px }
+.posta .lista 			{ background: #111111; height: 8px; border-top: 1px solid #444444 }
+.posta .smazat 			{ text-align: right; padding-right: 3px; padding-bottom: 3px }
+	
+	
+.prav_reg td 			{ vertical-align: top; padding-right: 6px }
+
+
+.prehledy 				{ width: 420px; margin: auto; border: 1px solid #444444 }
+.prehledy tr:hover td 	{ background: #111 }
+.prehledy .horni td 	{ border-bottom: 1px solid #FF9900; background: #111 }
+.prehledy .id 			{ border-right: 1px solid #444444; text-align: right; padding-right: 8px; padding-left: 8px }
+.prehledy .nick 		{ padding-left: 10px; padding-right: 10px; border-right: 1px solid #444444 }
+.prehledy a 			{ color: white }
+.prehledy a:hover		{ color: #FF9900; text-decoration: none }
+.prehledy .icq			{ padding-left: 10px; padding-right: 10px; border-right: 1px solid #444444 }
+.prehledy .rasa			{ padding-left: 10px }
+.prehledy .lista		{ background: #111111; height: 8px; border-top: 1px solid #444444 }
+	
+	
+.zavody					{ width: 420px; margin: auto; border: 1px solid #444444 }
+.zavody .oddelovac td	{ border-top: 1px solid #444444 }
+.zavody .horni td		{ border-bottom: 1px solid #FF9900; background: #111 }
+.zavody .id				{ border-right: 1px solid #444444; text-align: right; padding-right: 4px; padding-left: 4px }
+.zavody .nick			{ padding-left: 5px; padding-right: 5px; border-right: 1px solid #444444 }
+.zavody a				{ color: white }
+.zavody a:hover			{ color: #FF9900; text-decoration: none }
+.zavody .info			{ padding-left: 5px; padding-right: 5px; border-right: 1px solid #444444 }
+.zavody .enter			{ padding-left: 5px }
+.zavody .lista			{ background: #111111; height: 8px; border-top: 1px solid #444444 }
+.zavody .val			{ width: 25%; padding: 2px; padding-left: 5px }
+
+
+.zavod					{ width: 420px; margin: auto; border: 1px solid #282828 }
+.zavod td				{ vertical-align: top; padding: 2px }
+.zavod .horni td		{ border-bottom: 1px solid #FF9900; background-color: #111 }
+.zavod a				{ color: white }
+.zavod a:hover			{ color: #FF9900; text-decoration: none }
+.zavod .lista			{ background-color: #111111; height: 8px; border-top: 1px solid #282828 }
+.zavod .val				{ width: 28%; padding-left: 5px; padding-right: 3px }
+.zavod td				{ vertical-align: middle }
+.zavod tr:hover td		{ background-color: #111111 }
+.zavod tr.nobg:hover td	{ background-color: #000000 }
+
+
+.trate					{ width: 420px; margin: auto; border: 1px solid #444444 }
+.trate .horni td		{ border-bottom: 1px solid #FF9900; background: #111 }
+.trate .id				{ border-right: 1px solid #444444; text-align: right; padding-right: 8px; padding-left: 8px }
+.trate .nazev			{ padding-left: 10px; padding-right: 10px; border-right: 1px solid #444444 }
+.trate a				{ color: white }
+.trate a:hover			{ color: #FF9900; text-decoration: none }
+.trate .autor			{ padding-left: 10px; padding-right: 10px; border-right: 1px solid #444444 }
+.trate .info			{ padding-left: 10px }
+.trate .lista			{ background: #111111; height: 8px; border-top: 1px solid #444444 }
+
+
+.sazky_zavod2			{ width: 420px; margin: auto; border: 1px solid #444444 }
+.sazky_zavod2 td		{ padding-left: 4px; vertical-align: top }
+.sazky_zavod2 tr:hover td { background: #111111 }
+.sazky_zavod2 .horni td	{ border-bottom: 1px solid #FF9900; background: #111 }
+.sazky_zavod2 a			{ color: white }
+.sazky_zavod2 a:hover	{ color: #FF9900; text-decoration: none }
+.sazky_zavod2 .lista	{ background: #111111; height: 8px; border-top: 1px solid #444444 }
+
+
+.sazky_zavod			{ width: 420px; margin: auto; border: 1px solid #444444 }
+.sazky_zavod td			{ padding-left: 4px }
+.sazky_zavod td			{ vertical-align: top }
+.sazky_zavod .horni td	{ border-bottom: 1px solid #FF9900; background: #111 }
+.sazky_zavod a			{ color: white }
+.sazky_zavod a:hover	{ color: #FF9900; text-decoration: none }
+.sazky_zavod .lista		{ background: #111111; height: 8px; border-top: 1px solid #444444 }
+
+
+.kluzak_items td		{ border-top: 1px solid #444444; background-color: #000; padding-bottom: 8px; padding-top: 8px }
+
+
+.budovy					{ margin: auto }
+.budovy td				{ background-color: #111111; text-align: center }
+.budovy tr:hover td		{ background-color: #161616 }
+.budovy a				{ color: #FFFFFF }
+.budovy a:hover			{ color: #FF9900 }
+
+
+.rasy					{ width: 420px; border-left: 1px solid #444444; border-right: 1px solid #444444; border-top: 1px solid #444444; margin: auto }
+.rasy td				{ border-bottom: 1px solid #444444; padding-left: 6px; padding-top: 6px; padding-bottom: 4px; padding-right: 6px }
+.rasy .nazev			{ width: 75px; padding-right: 20px; border-right: 1px solid #444 }
+.rasy .horni td			{ border-bottom: 1px solid #FF9900; background: #111 }
+.rasy_visible			{ display: table-row }
+.rasy_hidden			{ display: none }
+
+
+.quest					{ width: 400px; margin: auto; padding-top: 5px; padding-bottom: 10px; padding-left: 15px; padding-right: 15px }
+.quest .quest_nazev		{ color: #66CC00; font-weight: bold }
+.quest .quest_nazev2	{ color: #CCC; font-weight: bold }
+.quest_text				{ width: 386px; text-align: left; margin: auto }
+
+
+.kategorie_edit						{ margin: auto }
+.kategorie_edit td					{ padding: 5px; padding-left: 8px; padding-right: 8px; border-left: 1px solid #444; border-bottom: 1px solid #444 }
+.kategorie_edit tr:hover td			{ background-color: #161616 }
+.kategorie_edit .hlavicka td		{ background-color: #111111; border: 1px solid #444; color: #FFFFFF }
+.kategorie_edit .hlavicka:hover td	{ background-color: #161616 }
+
+
+.kluzak					{ width: 420px; margin: auto; border: 1px solid #444444; border-bottom-width: 0px; background-color: #111 }
+.kluzak .lista			{ background: #111111; height: 8px; border-bottom: 1px solid #444444 }
+.kluzak .val			{ width: 94px; padding-left: 4px }
+.kluzak .nazev			{ padding-left: 4px; padding-right: 10px; text-align: left }
+
+
+.kluzak2_items td		{ border-bottom: 1px solid #444444; padding: 3px }
+.kluzak2 tr:hover td	{ background-color: #111111 }
+.kluzak2 .kluzak2_items:hover td { background-color: #000 }
+.kluzak2				{ width: 420px; margin: auto; border: 1px solid #444444; border-bottom-width: 0px; background-color: #000 }
+.kluzak2 .val			{ width: 94px; padding-left: 4px }
+.kluzak2 .prvni			{ padding-left: 4px }
+.kluzak2 .lista			{ background: #111111; height: 8px; border-bottom: 1px solid #444444 }
+.kluzak2 .horni td		{ border-bottom: 1px solid #FF9900; background: #111 }
+
+
+.rychle_info 			{ width: 100% }
+.rychle_info .value		{ color: #FFF; font-weight: bold; text-align: right; padding-right: 2px }
+.rychle_info hr			{ margin: 4px 0px 2px 0px; border: 0px solid #343434; border-top-width: 1px }
+
+.adminska_nastenka					{ font-size: 10px; width: 128px; margin: auto; margin-bottom: 10px }
+.adminska_nastenka strong.nadpis	{ color: #FF9900; display: block; border-bottom: 1px solid #343434; margin-bottom: 2px }
+
+.online_nastenka		{ float: left; padding: 4px; color: #999 !important; border-bottom: 1px solid #444; width: 76px; cursor: pointer }
+.online_nastenka:hover, .online_nastenka_cas:hover	{ color: #FFF !important }
+.online_nastenka_cas	{ float: right; color: #999 !important; border-bottom: 1px solid #444; padding: 4px; width: 41px; text-align: right; cursor: pointer }
+
+.sezona					{ margin: auto; width: 50px; border: 1px solid #444; border-bottom-width: 0px }
+.sezona td				{ border-bottom: 1px solid #444; cursor: pointer }
+.sezona td.normal		{ background-color: #000000 }
+.sezona td:hover		{ background-color: #333 !important }
+.sezona td.dulezity		{ color: #CC0000; font-weight: bold; background-color: #111 }
+.sezona td.dulezity:hover{ color: #FF0000 }
+.sezona td.etapa		{ color: #3399CC; font-weight: bold; background-color: #111 }
+.sezona td.etapa:hover	{ color: #6CCAFD }
+.sezona td.pohar		{ color: #FFCC00; font-weight: bold; background-color: #111 }
+.sezona td.pohar:hover	{ color: #FF9900 }
+.sezona td.dnes			{ color: #339933; font-weight: bold; background-color: #111 }
+.sezona td.dnes:hover	{ color: #33CC33 }
+.sezona td.davky		{ color: #29A923; font-weight: bold; background-color: #111 }
+.sezona td.davky:hover	{ color: #40DF24 }
+
+.jizdni_styly 						{ width: 380px; margin: auto; text-align: center }
+.jizdni_styly td					{ width: 92px; height: 44px }
+.jizdni_styly tr.zahlavi td 		{ border-top: 1px solid #FF9900; border-right: 1px solid #444; border-bottom: 1px solid #FF9900; background-color: #111 }
+.jizdni_styly tr.zahlavi td.prvni 	{ border-left: 1px solid #FF9900; width: 100px; font-weight: bold; color: #999; border-right: 1px solid #FF9900 }
+.jizdni_styly tr.telo td 			{ border-bottom: 1px solid #444; border-right: 1px solid #444; width: 92px }
+.jizdni_styly tr.telo td.prvni	 	{ border-left: 1px solid #444; background-color: #111 }
+.jizdni_styly td span 				{ color: #555; font-size: 11px; font-style: italic; display: block }
+
+.udalost_zahlavi 						{ width: 400px; border: 1px solid #3A3A3A; margin: auto }
+.udalost_zahlavi td 					{ font-size: 11px; height: 28px; background-image: url(img/udalost_title_bg.jpg); background-repeat: repeat-x }
+.udalost_zahlavi td.udalost_imgs 		{ padding-right: 12px }
+.udalost_zahlavi td.udalost_imgs img 	{ display: inline }
+.udalost_zahlavi td.udalost_nazev 		{ color: #AAA; text-align: left }
+.udalost_zahlavi td.udalost_nazev a 	{ font-weight: bold; color: #FFF }
+.udalost_zahlavi td.udalost_cas 		{ text-align: right; padding-right: 8px }
+.udalost_zahlavi tr:hover td 			{ cursor: pointer; background-image: url(img/udalost_title_bg2.jpg) }
+
+.udalost_info { width: 400px; margin: auto; border-left: 1px solid #3A3A3A; display: none }
+.udalost_info td { padding-top: 5px; padding-bottom: 4px; padding-left: 5px; border-bottom: 1px solid #3A3A3A; border-right: 1px solid #3A3A3A }
+.udalost_info_nazev { width: 126px; vertical-align: top }
+
+table.anketa { margin-left: 18px; width: 95%; border-top: 1px solid #252525; border-left: 1px solid #252525 }
+table.anketa td { border-right: 1px solid #252525; border-bottom: 1px solid #252525 }
+table.anketa td.anketa_procenta, table.anketa td.anketa_pocet { text-align: right; width: 30px }
+table.anketa td.anketa_minibar { width: 70px }
+table.anketa td.anketa_minibar div { border-width: 0px }
