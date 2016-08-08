@@ -24,8 +24,9 @@ There was only one active developer and one lazy admin ;)
 Players were writing stories from the QSB world, interviews, tutorials and other experiences and publishing it at the QSB World blog, which was written for this game (again, DIY attitude).
 There were player meet-ups happening and they, from time to time, still happen :)
 
-## Internet archive snapshot
+## Screenshots
 [This is what the game looked like, before it was taken down.](http://web.archive.org/web/20120507033439/http://qsb.cz/)
+[Some screenshots can be found here too](http://web.archive.org/web/20130308084552/http://www.qsb.cz/obrazky-ze-hry).
 
 ## About the game
 
