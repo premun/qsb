@@ -28,6 +28,8 @@ There were player meet-ups happening and they, from time to time, still happen :
 [This is what the game looked like, before it was taken down.](http://web.archive.org/web/20120507033439/http://qsb.cz/)
 [Some screenshots can be found here too](http://web.archive.org/web/20130308084552/http://www.qsb.cz/obrazky-ze-hry).
 
+This repo also contains some, check the [images](https://github.com/premun/qsb/tree/master/images) dir.
+
 ## About the game
 
 The game is situated in a Star Wars themed world, more precisely Tatooine [pod racing](http://vignette1.wikia.nocookie.net/starwars/images/b/b1/PodracerAnakin.jpg/revision/latest?cb=20111205042103). 
